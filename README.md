@@ -1,4 +1,4 @@
-# fileSystem
+# Greedy-Method-Implementation
 
 1. Suppose you have several baskets of laundry to wash and dry, but only one washer and one dryer. For each basket of
 laundry, you know the number of minutes to wash and the number of minutes to dry. To minimize the total time (the
